@@ -12,7 +12,7 @@ body
 {
 	padding: 0;
 	margin: 0 ;
-	background: #8A2BE2;
+	background-image:url(http://images.toocharger.com/img/graphiques/textures/vegetal/herbe.32934.jpg);
 	font-family: sans-serif;
 background-position:center;
 }
@@ -94,7 +94,7 @@ div.element
 	overflow-y: scroll;
 	margin: 1%;
 	padding: 0%;
-	background-color: #ADFF2F;
+	background-image: url(http://www.francoise-maunoury.com/specific_files/4/1/6/texture_005.jpg?update=20100913072104);
 	border: 1px solid #999999;
 	-webkit-border-radius: 25px 0px 25px 0px;
 	border-radius: 25px 0px;
@@ -145,6 +145,6 @@ h2,h3
 }
 
 p{ 
-	color:#FF4500;
+	color:black;
 }
 
